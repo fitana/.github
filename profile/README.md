@@ -9,7 +9,7 @@ Fitana helps you to achieve your fitness goals and to keep a healthy lifestyle b
 ### Comprehensive control over the privacy of your data
 > WIP
 
-### Tailored insights to improve your training based on the data you and the community decide to share
+### Tailored insights to improve your training based on the data that you and other users decide to share
 > WIP
 
 ### Unlimited access to your own data for you, or third parties of your choice, via first-class APIs
